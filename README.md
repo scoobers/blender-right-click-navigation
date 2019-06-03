@@ -2,6 +2,6 @@
 
 # Blender: Right-Click Navigation
 
-An add-on / keymap patch that that maps Blender viewport / editor navigation to the right mouse button. Download and install the PY file as an add-on.
+An add-on / keymap patch that that maps Blender viewport + editor navigation to the right mouse button. Download the PY file an install it as an add-on in the Blender UI.
 
-[See the Blender Artists thread for hotkeys and more info](https://blenderartists.org/t/2-8-add-on-right-click-navigation-wip/1163095)
+[**See the Blender Artists thread for hotkeys and more info**](https://blenderartists.org/t/2-8-add-on-right-click-navigation-wip/1163095)
