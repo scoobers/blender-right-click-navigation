@@ -2,7 +2,7 @@ bl_info = {
 			"name": "Right-Click Navigation",
 			"author": "Dr. Butts",
 			"version": (0, 1),
-			"blender": (2, 80),
+			"blender": (2, 80, 0),
 			"location": "",
 			"description": "Navigate editors using the right mouse button",
 			"warning": "",
@@ -820,11 +820,6 @@ def keymapNav():
 	km = kc.keymaps.new('Gesture Straight Line', space_type='EMPTY', region_type='WINDOW', modal=True)
 
 	kmi = km.keymap_items.new_modal('CANCEL', m_secondary, 'ANY', any=True)
-
-
-# Need call main function here in order for this to work as an add-on.
-# Figure out better way.
-start_delay()
 
 
 
